@@ -67,3 +67,7 @@ Some product idea that can be copied:
 
 - https://teuxdeux.com/
 - https://www.getminimalist.com/
+
+## I made a video about it
+
+[![Watch it on Youtube](https://img.youtube.com/vi/1HbdeNs3sp0/0.jpg)](https://youtu.be/1HbdeNs3sp0)
